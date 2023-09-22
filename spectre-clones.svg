@@ -81,7 +81,7 @@
 	</g>
 </g>
 <g id="lspectre4" inkscape:groupmode="layer" inkscape:label="Spectre 4">
-	<g id="spectre4">
+	<g id="spectre4" transform="translate(105,148.5) rotate(44.4) translate(877.0,-667.9)">
 		<use xlink:href="#spectre3" transform="translate(-415.692194, 985.499815) rotate(180) scale(-1, 1)"/>
 		<use xlink:href="#spectre3" transform="translate(-1192.627944, 1848.320138) rotate(240) scale(-1, 1)"/>
 		<use xlink:href="#mystic3" transform="translate(-986.935750, 506.935750) rotate(120) scale(-1, 1)"/>
